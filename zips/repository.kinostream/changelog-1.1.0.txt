@@ -1,0 +1,3 @@
+v1.1.0
+- Clean repository definition using dir schema
+- GitHub Pages compatible layout

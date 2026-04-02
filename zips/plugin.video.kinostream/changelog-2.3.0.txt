@@ -1,0 +1,5 @@
+v2.3.0
+- Kino Stream branding
+- Recently played
+- Improved search
+- Prefix-based alphabetical browsing
