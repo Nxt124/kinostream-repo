@@ -13,8 +13,8 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="cs_CZ">Filmy a seriály z Webshare.cz s CSFD/TMDB</summary>
     <summary lang="en_GB">Movies and TV shows from Webshare.cz with CSFD/TMDB</summary>
-    <description lang="cs_CZ">Kino Stream - Streamování filmů a seriálů z Webshare.cz. CSFD prioritní vyhledávání, TMDB fallback. Naposledy přehrané a vylepšené hledání. Funguje na Kodi 18, 19, 20, 21.</description>
-    <description lang="en_GB">Kino Stream - Stream movies and TV shows from Webshare.cz. CSFD priority search, TMDB fallback. Includes recently played and improved search. Works on Kodi 18, 19, 20, 21.</description>
+    <description lang="cs_CZ">Kino Stream - Streamování filmů a seriálů z Webshare.cz.</description>
+    <description lang="en_GB">Kino Stream - Stream movies and TV shows from Webshare.cz.</description>
     <platform>all</platform>
     <license>GPL-3.0</license>
     <assets>
