@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.kinostream"
        name="Kino Stream"
-       version="2.4.3"
+       version="2.4.1"
        provider-name="Kino Stream">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -22,14 +21,10 @@
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
-    <news>v2.4.3 - sjednocene menu oblibenych (jen jedna vlastni polozka Kino Stream)
-v2.4.2 - oprava duplicitni polozky oblibenych v menu
-v2.4.1 - oprava zobrazeni oblibenych slozek
-v2.4.0 - oblibene, nove logo a fanart</news>
+    <news>v2.4.4 - Přejmenování Oblíbených na Můj seznam, odstraněná duplicitní vlastní položka Informace</news>
   </extension>
 </addon>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kinostream" name="Kino Stream Repository" version="1.1.5" provider-name="Kino Stream">
+<addon id="repository.kinostream" name="Kino Stream Repository" version="1.1.6" provider-name="Kino Stream">
   <extension point="xbmc.addon.repository" name="Kino Stream Repository">
     <dir>
       <info compressed="false">https://nxt124.github.io/kinostream-repo/addons.xml</info>
