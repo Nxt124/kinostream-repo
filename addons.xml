@@ -21,11 +21,10 @@
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
-    <news>v2.4.1 - Opravene zobrazovani oblibenych, slozka je vzdy viditelna a prazdna sekce zobrazi informacni polozku
-v2.4.0 - Pridane oblibene, u serialu se uklada cely serial, nove logo a fanart</news>
+    <news>v2.4.2 - oprava duplicitni polozky v kontextovem menu oblibenych, vlastni volba Kino Stream oblibene + zachovana informace</news>
   </extension>
 </addon>
-<addon id="repository.kinostream" name="Kino Stream Repository" version="1.1.3" provider-name="Kino Stream">
+<addon id="repository.kinostream" name="Kino Stream Repository" version="1.1.4" provider-name="Kino Stream">
   <extension point="xbmc.addon.repository" name="Kino Stream Repository">
     <dir>
       <info compressed="false">https://nxt124.github.io/kinostream-repo/addons.xml</info>
