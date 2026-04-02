@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.kinostream" name="Kino Stream" version="2.4.4" provider-name="Kino Stream">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="cs_CZ">Filmy a seriály z Webshare.cz s CSFD/TMDB</summary>
+    <description lang="cs_CZ">Kino Stream - přehrávání filmů a seriálů s funkcí Můj seznam.</description>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <assets>
+      <icon>https://nxt124.github.io/kinostream-repo/zips/plugin.video.kinostream/icon.png</icon>
+      <fanart>https://nxt124.github.io/kinostream-repo/zips/plugin.video.kinostream/fanart.jpg</fanart>
+    </assets>
+    <news>v2.4.4 - Můj seznam a oprava textu v menu</news>
+  </extension>
+</addon>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kinostream" name="Kino Stream Repository" version="1.1.7" provider-name="Kino Stream">
+  <extension point="xbmc.addon.repository" name="Kino Stream Repository">
+    <dir>
+      <info compressed="false">https://nxt124.github.io/kinostream-repo/addons.xml</info>
+      <checksum>https://nxt124.github.io/kinostream-repo/addons.xml.md5</checksum>
+      <datadir zip="true">https://nxt124.github.io/kinostream-repo/zips/</datadir>
+      <hashes>false</hashes>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="cs_CZ">Repozitář pro Kino Stream</summary>
+    <summary lang="en_GB">Repository for Kino Stream</summary>
+    <description lang="cs_CZ">Instalační a aktualizační repozitář pro addon Kino Stream.</description>
+    <description lang="en_GB">Installation and update repository for the Kino Stream add-on.</description>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+</addons>
