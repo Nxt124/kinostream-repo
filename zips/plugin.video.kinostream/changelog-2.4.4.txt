@@ -1,1 +1,0 @@
-v2.4.4 - Přejmenování Oblíbených na Můj seznam, odstraněná duplicitní vlastní položka Informace
