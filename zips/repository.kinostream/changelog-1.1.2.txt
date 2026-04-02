@@ -1,0 +1,1 @@
+v1.1.2 - Metadata refresh for Kino Stream 2.4.0
