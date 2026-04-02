@@ -1,1 +1,0 @@
-v2.3.1 - Odstranen dobrovolny prispevek/QR kod, nove ostrejsi logo s vetsim textem
