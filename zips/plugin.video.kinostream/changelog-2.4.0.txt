@@ -1,3 +1,0 @@
-v2.4.0 - Oblibene filmy a serialy, u serialu se uklada cely serial
-v2.3.1 - Aktualizace loga
-v2.3.0 - Vytvoreni Kino Stream
