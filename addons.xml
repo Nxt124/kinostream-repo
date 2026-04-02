@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.kinostream"
        name="Kino Stream"
-       version="2.3.0"
+       version="2.3.1"
        provider-name="Kino Stream">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -22,6 +22,7 @@
       <fanart>fanart.jpg</fanart>
     </assets>
     <news>
+v2.3.1 - Odstranen dobrovolny prispevek/QR kod, nove ostrejsi logo s vetsim textem
 v2.3.0 - Rebrand na Kino Stream, nove logo a metadata
 v2.2.0 - Naposledy prehrane, vyber scope hledani (vse/filmy/serialy), lepsi rerank TMDB, lepsi Webshare fallback
 v2.1.5 - Prísnejsi vyhledavani: titul-part matching, fix Red Dwarf/Avatar
