@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.kinostream"
        name="Kino Stream"
-       version="2.4.5"
+       version="2.4.31"
        provider-name="Kino Stream">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -13,18 +13,19 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="cs_CZ">Filmy a seriály z Webshare.cz s CSFD/TMDB</summary>
     <summary lang="en_GB">Movies and TV shows from Webshare.cz with CSFD/TMDB</summary>
-    <description lang="cs_CZ">Kino Stream - Streamování filmů a seriálů z Webshare.cz.</description>
-    <description lang="en_GB">Kino Stream - Stream movies and TV shows from Webshare.cz.</description>
+    <description lang="cs_CZ">Kino Stream - Streamování filmů a seriálů z Webshare.cz. CSFD prioritní vyhledávání, TMDB fallback. Naposledy přehrané a vylepšené hledání. Funguje na Kodi 18, 19, 20, 21.</description>
+    <description lang="en_GB">Kino Stream - Stream movies and TV shows from Webshare.cz. CSFD priority search, TMDB fallback. Includes recently played and improved search. Works on Kodi 18, 19, 20, 21.</description>
     <platform>all</platform>
     <license>GPL-3.0</license>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
-    <news>v2.4.5 - VIP badge: červeně při 5 dnech a méně, lepší řazení streamů s preferencí CZ dabingu</news>
+    <news>v2.4.10 - Oprava Webshare přihlášení a stabilnější síťová vrstva</news>
   </extension>
 </addon>
-<addon id="repository.kinostream" name="Kino Stream Repository" version="1.1.8" provider-name="Kino Stream">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kinostream" name="Kino Stream Repository" version="1.2.5" provider-name="Kino Stream">
   <extension point="xbmc.addon.repository" name="Kino Stream Repository">
     <dir>
       <info compressed="false">https://nxt124.github.io/kinostream-repo/addons.xml</info>
@@ -40,10 +41,8 @@
     <description lang="en_GB">Installation and update repository for the Kino Stream add-on.</description>
     <platform>all</platform>
     <license>GPL-3.0</license>
-    <assets>
-      <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
-    </assets>
+    <assets><icon>icon.png</icon><fanart>fanart.jpg</fanart></assets>
+    <news>v1.2.5 - Aktualizace pro Kino Stream 2.4.31</news>
   </extension>
 </addon>
 </addons>

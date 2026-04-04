@@ -1,0 +1,1 @@
+v2.4.31 - Přidána položka Zpětná vazba a odeslání feedbacku na email.
