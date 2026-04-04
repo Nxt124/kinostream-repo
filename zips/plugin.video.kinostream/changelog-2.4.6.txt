@@ -1,1 +1,10 @@
 v2.4.6 - Upravena metadata a popis addonu.
+v2.4.5 - VIP stav červeně při 5 dnech a méně, lepší řazení streamů s preferencí CZ dabingu
+v2.4.4 - Můj seznam a oprava textu v menu
+v2.4.31 - Přidána položka Zpětná vazba a odeslání feedbacku na email.
+v2.4.2 - Oprava duplicitni polozky v kontextovem menu oblibenych
+v2.4.1 - Opravené zobrazování Oblíbených, složka je vždy viditelná a prázdná sekce ukáže informační položku
+v2.4.0 - Přidané Oblíbené, u seriálů se ukládá celý seriál, nové logo a fanart
+v2.3.2 - Úprava verze
+v2.3.1 - Aktualizace loga
+v2.3.0 - Vytvoření Kino Stream
