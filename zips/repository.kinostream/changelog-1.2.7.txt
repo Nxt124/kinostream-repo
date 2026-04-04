@@ -1,0 +1,1 @@
+v1.2.7 - Aktualizace repozitáře pro verzi 2.4.6.
