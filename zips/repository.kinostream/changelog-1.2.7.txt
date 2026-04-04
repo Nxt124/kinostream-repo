@@ -1,1 +1,1 @@
-v1.2.7 - Aktualizace repozitáře pro verzi 2.4.6.
+v1.2.7 - Balíček pro GitHub s addonem Kino Stream 2.4.7
