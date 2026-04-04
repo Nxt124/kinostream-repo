@@ -1,1 +1,7 @@
 v2.4.5 - VIP stav červeně při 5 dnech a méně, lepší řazení streamů s preferencí CZ dabingu
+v2.4.2 - Oprava duplicitni polozky v kontextovem menu oblibenych
+v2.4.1 - Opravené zobrazování Oblíbených, složka je vždy viditelná a prázdná sekce ukáže informační položku
+v2.4.0 - Přidané Oblíbené, u seriálů se ukládá celý seriál, nové logo a fanart
+v2.3.2 - Úprava historie verzí
+v2.3.1 - Aktualizace loga
+v2.3.0 - Vytvoření Kino Stream
