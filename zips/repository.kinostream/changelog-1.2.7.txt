@@ -1,1 +1,1 @@
-v1.2.7 - Balíček pro GitHub s addonem Kino Stream 2.4.7
+v1.2.7 - Vylepšené hledání
