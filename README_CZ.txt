@@ -1,1 +1,1 @@
-Addo pro KODI - stream z Webshare.cz
+Doplněk pro KODI - stream videa z Webshare.cz
