@@ -1,1 +1,1 @@
-Nahrajte rozbalený obsah tohoto balíčku do kořene GitHub repozitáře.
+Addo pro KODI - stream z Webshare.cz
