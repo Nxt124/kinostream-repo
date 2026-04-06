@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.kinostream"
        name="Kino Stream"
-       version="2.5.0"
+       version="2.5.1"
        provider-name="Kino Stream">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -21,10 +21,10 @@
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
-    <news>v2.5.0 - Aktualizace verze addonu pro vydání v GitHub repozitáři</news>
+    <news>v2.5.1 - Aktualizace verze addonu pro vydání v GitHub repozitáři</news>
   </extension>
 </addon>
-<addon id="repository.kinostream" name="Kino Stream Repository" version="1.2.8" provider-name="Kino Stream">
+<addon id="repository.kinostream" name="Kino Stream Repository" version="1.2.9" provider-name="Kino Stream">
   <extension point="xbmc.addon.repository" name="Kino Stream Repository">
     <dir>
       <info compressed="false">https://nxt124.github.io/kinostream-repo/addons.xml</info>

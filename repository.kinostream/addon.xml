@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kinostream" name="Kino Stream Repository" version="1.2.8" provider-name="Kino Stream">
+<addon id="repository.kinostream" name="Kino Stream Repository" version="1.2.9" provider-name="Kino Stream">
   <extension point="xbmc.addon.repository" name="Kino Stream Repository">
     <dir>
       <info compressed="false">https://nxt124.github.io/kinostream-repo/addons.xml</info>

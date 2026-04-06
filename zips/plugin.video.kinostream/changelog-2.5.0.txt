@@ -1,2 +1,1 @@
-v2.5.0
-- Aktualizace verze addonu pro vydání v GitHub repozitáři
+v2.5.0 - Aktualizace verze addonu pro vydání v GitHub repozitáři
