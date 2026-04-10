@@ -1,0 +1,1 @@
+v2.5.4 - Úpravy vyhledávání zdrojů, řazení, TMDB stránkování a zpětné vazby
