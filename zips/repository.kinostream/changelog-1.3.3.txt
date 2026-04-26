@@ -1,0 +1,2 @@
+v1.3.3
+- Aktualizace repozitáře pro vydání plugin.video.kinostream 2.5.5.

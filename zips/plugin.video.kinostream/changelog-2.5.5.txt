@@ -1,0 +1,3 @@
+v2.5.5
+- Přidána možnost smazat naposledy hledané.
+- Odstraněny prázdné klikatelné řádky v dialogu hledání.
