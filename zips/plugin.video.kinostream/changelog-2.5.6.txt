@@ -1,0 +1,6 @@
+Kino Stream 2.5.6
+
+- Přidáno TMDB hodnocení v procentech k názvům filmů a seriálů.
+- Do nabídky Hledat přidáno přímé vyhledávání Webshare souborů bez TMDB filtru.
+- Přidáno stránkování dalších výsledků Webshare.
+- Přidán řádek Žánr do popisu filmu/seriálu v levé části Kodi.
